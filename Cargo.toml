@@ -5,3 +5,4 @@ authors = ["Michael <maestromike5@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+rustplot = "0.1.0"
